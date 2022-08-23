@@ -1,5 +1,4 @@
 Jonnnnyw php-phantomjs fixed for Laravel 9.1
-PHP PhantomJS
 =============
 
 PHP PhantomJS is a flexible PHP library to load pages through the PhantomJS 
